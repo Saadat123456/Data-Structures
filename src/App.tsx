@@ -1,10 +1,10 @@
 import React from 'react';
 import './App.css';
-import LinkedList from './components/LinkedList/linked_list';
+import LinkedListUI from './components/LinkedList/linked_list_ui';
 
 function App() {
   return (
-    <LinkedList />
+    <LinkedListUI />
   );
 }
 
